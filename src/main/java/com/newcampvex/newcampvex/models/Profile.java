@@ -27,9 +27,9 @@ public class Profile {
     
     private String bio;
     private String profilePictureUrl;
-    private String skillsJson; // JSON string of skills
-    private String experienceJson; // JSON string of experience
-    private String educationJson; // JSON string of education
+    private String skillsJson;
+    private String experienceJson;
+    private String educationJson;
     private String portfolioUrl;
     private String resumeUrl;
     private String linkedInUrl;

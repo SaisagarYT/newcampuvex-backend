@@ -24,9 +24,9 @@ public class Problem {
     
     private String title;
     private String description;
-    private String difficulty; // beginner, intermediate, advanced
-    private String category; // Arrays, Strings, Trees, etc.
-    private String platform; // LeetCode, HackerRank, GeeksforGeeks, etc.
+    private String difficulty;
+    private String category;
+    private String platform;
     private String externalLink;
     private Integer xpReward;
     private List<String> tags;
